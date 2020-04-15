@@ -4,4 +4,4 @@ esta es una prueba de git del curso de Platzi
 
 para aprender bien git
 
-Esta es una vida
+Esta es una vida y esta es una nueva obra.
